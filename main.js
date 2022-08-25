@@ -159,22 +159,27 @@ mobileBtn.addEventListener('click', () =>{
 function openHirePage(){
     let url = "https://www.upwork.com/freelancers/~012b46be63d1d95985"
     window.open(url , '_blank');
-
 }
 
 
 function openInstaPage(){
     let url = "https://www.instagram.com/yesayan_77/"
     window.open(url , '_blank');
-
 }
+
 function openLinkedinPage(){
     let url = "https://www.linkedin.com/in/gagik-yesayan-a40951208/"
     window.open(url , '_blank');
-
 }
 
 
+function openGamePage(){
+    let url = ' https://gag1.github.io/browserGame.github.io/'
+    window.open(url, '_blank')
+}
 
 
-
+function openWebPage(){
+    let url = 'https://gag1.github.io/portfolio2.github.io/'
+    window.open(url, '_blank')
+}
